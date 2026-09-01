@@ -24,7 +24,7 @@ depends=(
     ## terminal
     foot
     ## browser
-    firefox
+    librewolf
     ## mail
     thunderbird
     ## menu
